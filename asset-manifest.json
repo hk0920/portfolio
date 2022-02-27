@@ -1,18 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.cc836185.css",
-    "main.js": "/portfolio/static/js/main.119d1f5f.js",
+    "main.css": "/portfolio/static/css/main.8cddae45.css",
+    "main.js": "/portfolio/static/js/main.f149c31a.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/main-vis-img1.png": "/portfolio/static/media/main-vis-img1.78755750b0e161716577.png",
     "static/media/main-vis-img2.png": "/portfolio/static/media/main-vis-img2.919582718cc448a00e3b.png",
     "static/media/published.png": "/portfolio/static/media/published.31875368a130e2eca9cf.png",
+    "static/media/portfolio-img.png": "/portfolio/static/media/portfolio-img.41b9c67e0ec8190cb03d.png",
     "static/media/sampyo.png": "/portfolio/static/media/sampyo.14c3cf3fbac012e53862.png",
     "static/media/main-vis-img.png": "/portfolio/static/media/main-vis-img.cc8b64ca4b349a927f8e.png",
+    "static/media/banimarket-img.png": "/portfolio/static/media/banimarket-img.050819fde95bb4510a5a.png",
+    "static/media/chilsung-img.png": "/portfolio/static/media/chilsung-img.6de8ff301d28b7f37ab9.png",
     "static/media/arijian-img.png": "/portfolio/static/media/arijian-img.30b7d0db72c926690281.png",
+    "static/media/run-img.png": "/portfolio/static/media/run-img.fe9d98af9e5ce62f8ccf.png",
     "static/media/about.png": "/portfolio/static/media/about.a7ba94c38999ce9671c1.png",
     "static/media/lotteworld-busan-img.png": "/portfolio/static/media/lotteworld-busan-img.8efd4007b77a3af7471c.png",
     "static/media/lottechemical-img.png": "/portfolio/static/media/lottechemical-img.4e149a04c9b867145d57.png",
     "static/media/autoever-img1.png": "/portfolio/static/media/autoever-img1.f8720b0fd3851c2c0310.png",
+    "static/media/artmoa-img.png": "/portfolio/static/media/artmoa-img.84f4a2c60a0f040b7abc.png",
     "static/media/hyundai-car-img.png": "/portfolio/static/media/hyundai-car-img.a8bf7eac1ba7bcf18e1d.png",
     "static/media/kt-img1.png": "/portfolio/static/media/kt-img1.03bf92669bc5162c0c11.png",
     "static/media/primera.png": "/portfolio/static/media/primera.ce1aa91b4f1a6ad8b935.png",
@@ -36,12 +41,12 @@
     "static/media/name1.png": "/portfolio/static/media/name1.723b376705bdbcf74c1f.png",
     "static/media/skill_b.png": "/portfolio/static/media/skill_b.48f68eccf4c623df6d16.png",
     "index.html": "/portfolio/index.html",
-    "main.cc836185.css.map": "/portfolio/static/css/main.cc836185.css.map",
-    "main.119d1f5f.js.map": "/portfolio/static/js/main.119d1f5f.js.map",
+    "main.8cddae45.css.map": "/portfolio/static/css/main.8cddae45.css.map",
+    "main.f149c31a.js.map": "/portfolio/static/js/main.f149c31a.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc836185.css",
-    "static/js/main.119d1f5f.js"
+    "static/css/main.8cddae45.css",
+    "static/js/main.f149c31a.js"
   ]
 }
