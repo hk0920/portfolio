@@ -1,14 +1,16 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.8cddae45.css",
-    "main.js": "/portfolio/static/js/main.f149c31a.js",
+    "main.js": "/portfolio/static/js/main.5848869f.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/main-vis-img1.png": "/portfolio/static/media/main-vis-img1.78755750b0e161716577.png",
     "static/media/main-vis-img2.png": "/portfolio/static/media/main-vis-img2.919582718cc448a00e3b.png",
     "static/media/published.png": "/portfolio/static/media/published.31875368a130e2eca9cf.png",
     "static/media/portfolio-img.png": "/portfolio/static/media/portfolio-img.41b9c67e0ec8190cb03d.png",
     "static/media/sampyo.png": "/portfolio/static/media/sampyo.14c3cf3fbac012e53862.png",
+    "static/media/app2.pdf": "/portfolio/static/media/app2.9af4aa8b7482095f0599.pdf",
     "static/media/main-vis-img.png": "/portfolio/static/media/main-vis-img.cc8b64ca4b349a927f8e.png",
+    "static/media/app1.pdf": "/portfolio/static/media/app1.a1cbbed678ab4387554d.pdf",
     "static/media/banimarket-img.png": "/portfolio/static/media/banimarket-img.050819fde95bb4510a5a.png",
     "static/media/chilsung-img.png": "/portfolio/static/media/chilsung-img.6de8ff301d28b7f37ab9.png",
     "static/media/arijian-img.png": "/portfolio/static/media/arijian-img.30b7d0db72c926690281.png",
@@ -24,6 +26,7 @@
     "static/media/eats-img.png": "/portfolio/static/media/eats-img.d5c8bbba4811ae8573de.png",
     "static/media/icox.png": "/portfolio/static/media/icox.1583edd501faf4e63357.png",
     "static/media/lotteworld-img.png": "/portfolio/static/media/lotteworld-img.72d3d571c9992c6e744a.png",
+    "static/media/app3.pdf": "/portfolio/static/media/app3.d8460c0079dff5656ab2.pdf",
     "static/media/oilbank-img1.png": "/portfolio/static/media/oilbank-img1.9fac1f30293c51d5a2fd.png",
     "static/media/ace-img.png": "/portfolio/static/media/ace-img.b85dc4b6b461bc3de646.png",
     "static/media/kolon-img.png": "/portfolio/static/media/kolon-img.9216ebeacffded6a02ec.png",
@@ -42,11 +45,11 @@
     "static/media/skill_b.png": "/portfolio/static/media/skill_b.48f68eccf4c623df6d16.png",
     "index.html": "/portfolio/index.html",
     "main.8cddae45.css.map": "/portfolio/static/css/main.8cddae45.css.map",
-    "main.f149c31a.js.map": "/portfolio/static/js/main.f149c31a.js.map",
+    "main.5848869f.js.map": "/portfolio/static/js/main.5848869f.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8cddae45.css",
-    "static/js/main.f149c31a.js"
+    "static/js/main.5848869f.js"
   ]
 }
