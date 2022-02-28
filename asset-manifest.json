@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.8cddae45.css",
-    "main.js": "/portfolio/static/js/main.5848869f.js",
+    "main.css": "/portfolio/static/css/main.52a56f23.css",
+    "main.js": "/portfolio/static/js/main.f9e23e82.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/main-vis-img1.png": "/portfolio/static/media/main-vis-img1.78755750b0e161716577.png",
     "static/media/main-vis-img2.png": "/portfolio/static/media/main-vis-img2.919582718cc448a00e3b.png",
@@ -28,6 +28,7 @@
     "static/media/lotteworld-img.png": "/portfolio/static/media/lotteworld-img.72d3d571c9992c6e744a.png",
     "static/media/app3.pdf": "/portfolio/static/media/app3.d8460c0079dff5656ab2.pdf",
     "static/media/oilbank-img1.png": "/portfolio/static/media/oilbank-img1.9fac1f30293c51d5a2fd.png",
+    "static/media/hg1.jpg": "/portfolio/static/media/hg1.6fb2ec3ddc0b241ced1c.jpg",
     "static/media/ace-img.png": "/portfolio/static/media/ace-img.b85dc4b6b461bc3de646.png",
     "static/media/kolon-img.png": "/portfolio/static/media/kolon-img.9216ebeacffded6a02ec.png",
     "static/media/app.png": "/portfolio/static/media/app.00a43babcb8e0ef481ff.png",
@@ -37,19 +38,18 @@
     "static/media/app2.png": "/portfolio/static/media/app2.4b0d1324749dc4fa1f96.png",
     "static/media/lottedfs-img.png": "/portfolio/static/media/lottedfs-img.cdb2aa7556539b80051f.png",
     "static/media/hmg-law-img.png": "/portfolio/static/media/hmg-law-img.8b0aad7308b5f410de02.png",
-    "static/media/hg.jpg": "/portfolio/static/media/hg.3100d070b491ac79adda.jpg",
     "static/media/contact_back.png": "/portfolio/static/media/contact_back.2e312e09810a3d2cc5f4.png",
     "static/media/panel-img2.png": "/portfolio/static/media/panel-img2.b39e52d27963c4bfd666.png",
     "static/media/resume_b.png": "/portfolio/static/media/resume_b.347efa0ce7c2533dbd62.png",
     "static/media/name1.png": "/portfolio/static/media/name1.723b376705bdbcf74c1f.png",
     "static/media/skill_b.png": "/portfolio/static/media/skill_b.48f68eccf4c623df6d16.png",
     "index.html": "/portfolio/index.html",
-    "main.8cddae45.css.map": "/portfolio/static/css/main.8cddae45.css.map",
-    "main.5848869f.js.map": "/portfolio/static/js/main.5848869f.js.map",
+    "main.52a56f23.css.map": "/portfolio/static/css/main.52a56f23.css.map",
+    "main.f9e23e82.js.map": "/portfolio/static/js/main.f9e23e82.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8cddae45.css",
-    "static/js/main.5848869f.js"
+    "static/css/main.52a56f23.css",
+    "static/js/main.f9e23e82.js"
   ]
 }
