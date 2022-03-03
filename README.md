@@ -1,5 +1,5 @@
 # Portfolio
-개인 포트폴리오 React 프로젝트 반응형 웹 
+개인 포트폴리오, React 프로젝트 반응형 웹 
 
 ![portfolio-img](https://user-images.githubusercontent.com/75876034/156546035-11e5c6c2-a4f9-4cab-a37a-5f1b56e14faf.png)
 
