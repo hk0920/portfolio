@@ -5,7 +5,7 @@
 
 #### Project Info 
 > * **개발인원** : 1명  
-> * **개발기간** : 2022.02.17 ~ 2021.02.28  
+> * **개발기간** : 2022.02.17 ~ 2022.02.28  
 > * **개발환경** : 
     <span><img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/></span>
     <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
