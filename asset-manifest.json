@@ -1,11 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.76aabc05.css",
-    "main.js": "/portfolio/static/js/main.1d07bb08.js",
+    "main.js": "/portfolio/static/js/main.88da2e1f.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/바니마켓.pdf": "/portfolio/static/media/바니마켓.87e88f4e28c812bf6d38.pdf",
     "static/media/main-vis-img1.png": "/portfolio/static/media/main-vis-img1.78755750b0e161716577.png",
     "static/media/main-vis-img2.png": "/portfolio/static/media/main-vis-img2.919582718cc448a00e3b.png",
     "static/media/published.png": "/portfolio/static/media/published.31875368a130e2eca9cf.png",
+    "static/media/런마라톤.pdf": "/portfolio/static/media/런마라톤.ea9b4c9f86e4242a9b92.pdf",
     "static/media/portfolio-img.png": "/portfolio/static/media/portfolio-img.41b9c67e0ec8190cb03d.png",
     "static/media/sampyo.png": "/portfolio/static/media/sampyo.14c3cf3fbac012e53862.png",
     "static/media/app2.pdf": "/portfolio/static/media/app2.9af4aa8b7482095f0599.pdf",
@@ -45,11 +47,11 @@
     "static/media/skill_b.png": "/portfolio/static/media/skill_b.48f68eccf4c623df6d16.png",
     "index.html": "/portfolio/index.html",
     "main.76aabc05.css.map": "/portfolio/static/css/main.76aabc05.css.map",
-    "main.1d07bb08.js.map": "/portfolio/static/js/main.1d07bb08.js.map",
+    "main.88da2e1f.js.map": "/portfolio/static/js/main.88da2e1f.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.76aabc05.css",
-    "static/js/main.1d07bb08.js"
+    "static/js/main.88da2e1f.js"
   ]
 }
