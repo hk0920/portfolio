@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.76aabc05.css",
+    "main.css": "/portfolio/static/css/main.bc912d9a.css",
     "main.js": "/portfolio/static/js/main.7de1be91.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/바니마켓.pdf": "/portfolio/static/media/바니마켓.87e88f4e28c812bf6d38.pdf",
@@ -46,12 +46,12 @@
     "static/media/name1.png": "/portfolio/static/media/name1.723b376705bdbcf74c1f.png",
     "static/media/skill_b.png": "/portfolio/static/media/skill_b.48f68eccf4c623df6d16.png",
     "index.html": "/portfolio/index.html",
-    "main.76aabc05.css.map": "/portfolio/static/css/main.76aabc05.css.map",
+    "main.bc912d9a.css.map": "/portfolio/static/css/main.bc912d9a.css.map",
     "main.7de1be91.js.map": "/portfolio/static/js/main.7de1be91.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.76aabc05.css",
+    "static/css/main.bc912d9a.css",
     "static/js/main.7de1be91.js"
   ]
 }
