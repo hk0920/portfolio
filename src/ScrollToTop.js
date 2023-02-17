@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6eefe7f9e7a980d09243de0925b072298090a333cc7d21a40a9dc4b7e55fc234
-size 481
+import { useEffect } from "react";
+import { useLocation } from "react-router-dom";
+import $ from "jquery";
+
+const ScrollToTop=()=>{
+	const {pathname} = useLocation();
+
+	useEffect(()=>{
+		window.scrollTo(0, 0);
+
+		$(".gnb a").removeClass("active");
+		if(pathname === "/"){
+			$("#wrap").addClass("main");
+		}else{
+			$("#wrap").removeClass("main");
+			$(".gnb a:last-child").addClass("active");
+		}
+	},[pathname]);
+
+	return null;
+}
+
+export default ScrollToTop;
